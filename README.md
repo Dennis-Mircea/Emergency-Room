@@ -1,8 +1,5 @@
 # Emergency-Room
 
-/*
- *  Copyright [2018] <CIUPITU DENNIS-MIRCEA 323CA>
- */
 
 	Am creat urmatoarele pachete:
 	- emergency - contine fisiere date in schelet plus clasa EmergencyRoom,
